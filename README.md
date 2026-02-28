@@ -46,9 +46,6 @@ bag_counting_project/
 - **Visual Feedback**: Bounding boxes and live total count displayed on output videos.
 
 
-
-https://github.com/user-attachments/assets/d48935e9-612e-4af1-ac56-92cabfe9d9af
-
-
+   
 
 
