@@ -44,3 +44,11 @@ bag_counting_project/
 - **Modular Design**: Separated concerns for detection, tracking, and counting.
 - **Unique Counting**: Uses `seen_ids` to ensure each bag is counted only once per video.
 - **Visual Feedback**: Bounding boxes and live total count displayed on output videos.
+
+
+
+https://github.com/user-attachments/assets/d48935e9-612e-4af1-ac56-92cabfe9d9af
+
+
+
+
