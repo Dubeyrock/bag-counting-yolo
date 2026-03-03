@@ -1,6 +1,6 @@
 # Bag Counting Project
 
-This project implements a modular computer vision system for counting bags in video clips using YOLOv8 and ByteTrack.
+This project implements a modular computer vision system for counting bags in video clips using YOLOv8 and ByteTrack..
 
 ## Project Structure
 
