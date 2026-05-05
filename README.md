@@ -34,7 +34,7 @@ bag_counting_project/
    ```
 
 2. Place input videos in `data/videos/`.
-
+.
 3. Run the application:
    ```bash
    python main.py
